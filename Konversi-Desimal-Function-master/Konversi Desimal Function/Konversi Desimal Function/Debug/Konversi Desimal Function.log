@@ -1,0 +1,5 @@
+﻿  Konversi Desimal Function.cpp
+D:\Project Programming\Visual Studio\Konversi Desimal Function\Konversi Desimal Function\Konversi Desimal Function.cpp(124,7): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Project Programming\Visual Studio\Konversi Desimal Function\Konversi Desimal Function\Konversi Desimal Function.cpp(148,8): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Project Programming\Visual Studio\Konversi Desimal Function\Konversi Desimal Function\Konversi Desimal Function.cpp(172,7): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Konversi Desimal Function.vcxproj -> D:\Project Programming\Visual Studio\Konversi Desimal Function\Debug\Konversi Desimal Function.exe
